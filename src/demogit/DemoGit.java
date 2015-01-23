@@ -21,4 +21,8 @@ public class DemoGit {
         System.exit(1);
     }
     System.out.println("HELLO" + args[0] + "!");
+        System.out.println("bla bla bla");
+    
+    
+   
 }
